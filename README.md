@@ -21,7 +21,7 @@ about an individual: <br />
 * **native-country:** country of origin for an individual <br />
 * **income:** whether or not an individual makes more than $50,000 annually. <br />
 
-**Preliminary Exploratory Data Analysis**
+**Preliminary Exploratory Data Analysis** 
 Exploratory data analysis was performed by plotting a correlation heatmap of each factor with every other factor.
 
 Based on the matrix, it is quite evident that:
@@ -29,7 +29,7 @@ Based on the matrix, it is quite evident that:
 * Education-num (sorted in increasing order) is better than Education.
 * At first glance, age, education-num, sex, capital gain and hours-per-week seem to be most prominent.
 
-**Data Visualization**
+**Data Visualization** <br />
 
 **1. Age **
 
