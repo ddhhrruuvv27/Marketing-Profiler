@@ -29,9 +29,9 @@ Based on the matrix, it is quite evident that:
 * Education-num (sorted in increasing order) is better than Education.
 * At first glance, age, education-num, sex, capital gain and hours-per-week seem to be most prominent.
 
-**Data Visualization** <br />
+**Data Visualization** 
 
-**1. Age **
+**1. Age**
 
 It is evident from the visualization that people who earn more than $50k per year are on average about 43-44 years old and the people who earn less than $50k per year are around 34-37 years old. 
 
