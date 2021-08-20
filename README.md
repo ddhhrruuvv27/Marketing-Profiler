@@ -1,8 +1,11 @@
 The **US Adult Census dataset** is a repository of 32,560 entries extracted from the **1994 US Census database**.
 
+**Data preprocessing**
 The data was cleaned and pre processing was done, by removing all the rows containing one or more missing values from the **"adult.data"** file.
-All the rows containing “?” was marked as NaN (not a number) and finally dropped to obtain the **"preprocessed_data.csv"**.
+All the rows containing “?” was marked as NaN (not a number) and finally dropped to obtain the **"preprocessed_data.csv"** containing 30,162 entries.
 
+
+**US Adult Census Dataset**
 The Census Income dataset has 32,560 entries. Each entry contains the following information
 about an individual: <br />
 * **age:** the age of an individual <br />
@@ -13,7 +16,7 @@ about an individual: <br />
 * **marital-status:** marital status of an individual. <br />
 * **occupation:** the general type of occupation of an individual <br />
 * **relationship:** represents what this individual is relative to others. <br />
-* **race:** Descriptions of an individual’s race <br />
+* **race:** descriptions of an individual’s race <br />
 * **sex:** the biological sex of the individual <br />
 * **capital-gain:** capital gains for an individual <br />
 * **capital-loss:** capital loss for an individual <br />
