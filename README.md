@@ -83,7 +83,7 @@ For the analysis of the data, we have used **“Jupyter Notebook”** and **“G
 **Predictive Models**
 Having performed the preliminary research on various factors using promising visualizations, the features were used to train a predictive model that predicts on unseen test data.
 The results of experimentation with various different machine learning models are enumerated below:
-| Score Metric   | SVM (RBF kernel)| SVM (Linear kernel)| Random Forest (Gini) | Random Forest (Entropy) |
+| Score Metric   | SVM(RBF kernel)| SVM(Linear kernel)| Random Forest(Gini) | Random Forest(Entropy) |
 | :------------- | :-------------: | -----------------: | -------------------: | ----------------------: |
 |   Accuracy     |       0.79      |        0.79        |         0.85         |           0.85          |
 |   Precision    |       0.83      |        0.77        |         0.84         |           0.84          |
