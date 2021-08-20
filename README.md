@@ -5,21 +5,21 @@ All the rows containing “?” was marked as NaN (not a number) and finally dro
 
 The Census Income dataset has 32,561 entries. Each entry contains the following information
 about an individual:
-● age: the age of an individual
-● workclass: a general term to represent the employment status of an individual
-● fnlwgt: final weight
-● education: the highest level of education achieved by an individual.
-● education­num: the highest level of education achieved in numerical form.
-● marital­status: marital status of an individual.
-● occupation: the general type of occupation of an individual
-● relationship: represents what this individual is relative to others.
-● race: Descriptions of an individual’s race
-● sex: the biological sex of the individual
-● capital­gain: capital gains for an individual
-● capital­loss: capital loss for an individual
-● hours­per­week: the hours an individual has reported to work per week
-● native­country: country of origin for an individual
-● the label: whether or not an individual makes more than $50,000 annually.
+● age: the age of an individual <br />
+● workclass: a general term to represent the employment status of an individual <br />
+● fnlwgt: final weight <br />
+● education: the highest level of education achieved by an individual. <br />
+● education­num: the highest level of education achieved in numerical form. <br />
+● marital­status: marital status of an individual. <br />
+● occupation: the general type of occupation of an individual <br />
+● relationship: represents what this individual is relative to others. <br />
+● race: Descriptions of an individual’s race <br />
+● sex: the biological sex of the individual <br />
+● capital­gain: capital gains for an individual <br />
+● capital­loss: capital loss for an individual <br />
+● hours­per­week: the hours an individual has reported to work per week <br />
+● native­country: country of origin for an individual <br />
+● the label: whether or not an individual makes more than $50,000 annually. <br />
 
 
 
