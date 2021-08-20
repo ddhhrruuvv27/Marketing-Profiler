@@ -85,7 +85,10 @@ Having performed the preliminary research on various factors using promising vis
 The results of experimentation with various different machine learning models are enumerated below:
 | Score Metric   | SVM (RBF kernel)| SVM (Linear kernel)| Random Forest (Gini) | Random Forest (Entropy) |
 | :------------- | :-------------: | -----------------: | -------------------: | ----------------------: |
-
+|   Accuracy     |       0.79      |        0.79        |         0.85         |           0.85          |
+|   Precision    |       0.83      |        0.77        |         0.84         |           0.84          |
+|    Recall      |       0.79      |        0.79        |         0.85         |           0.85          |
+|   F1 score     |       0.73      |        0.76        |         0.84         |           0.84          |
 
 
 
